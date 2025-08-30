@@ -7,3 +7,6 @@ https://www.linkedin.com/posts/anshul-chhabra-46ba9b113_if-you-want-to-become-be
 ## system design blogs
 
 https://x.com/ashishps_1/status/1947507012167750023?t=zBOBUjYdy2VvUXSAl45_sQ&s=19
+
+## system design considerations 
+https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-pass-system-design-interviews-activity-7367522758701768704-74XL?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAAJd0hQBYBDlC7_pEcmr5KHvUkRK96MVtqc&utm_campaign=copy_link
