@@ -24,7 +24,11 @@ https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-pass-system-de
 
 https://x.com/systemdesignone/status/1971911991884177832?t=XrDRD1ZJSgKoOa4FUiu-nw&s=19
 
+## API issues troubleshooting 
+https://www.instagram.com/reel/DN7PgW7CGpe/?igsh=MXQybXYzMGlub25hMg==
 
+## hosting a website 5 options
+https://www.instagram.com/reel/DO5E04GiNbp/?igsh=MW5ibmM1bXQydjIwZw==
 
 
 
