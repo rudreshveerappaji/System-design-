@@ -30,6 +30,10 @@ https://www.instagram.com/reel/DN7PgW7CGpe/?igsh=MXQybXYzMGlub25hMg==
 ## hosting a website 5 options
 https://www.instagram.com/reel/DO5E04GiNbp/?igsh=MW5ibmM1bXQydjIwZw==
 
+## uber system design, database choices
+
+https://www.instagram.com/reel/DQEWeoZkp-1/?igsh=b25wY28ya2V6YXZ1
+
 ## Real world use cases 
 
 https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-become-good-at-system-design-activity-7382020047411617792-3U6W?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAAJd0hQBYBDlC7_pEcmr5KHvUkRK96MVtqc&utm_campaign=copy_link
